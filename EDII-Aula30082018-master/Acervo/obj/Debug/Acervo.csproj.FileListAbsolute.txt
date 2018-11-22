@@ -1,0 +1,7 @@
+C:\Users\e\Desktop\trabs pra estudar\EDII-Aula30082018-master\Acervo\bin\Debug\Acervo.exe.config
+C:\Users\e\Desktop\trabs pra estudar\EDII-Aula30082018-master\Acervo\bin\Debug\Acervo.exe
+C:\Users\e\Desktop\trabs pra estudar\EDII-Aula30082018-master\Acervo\bin\Debug\Acervo.pdb
+C:\Users\e\Desktop\trabs pra estudar\EDII-Aula30082018-master\Acervo\obj\Debug\Acervo.csprojResolveAssemblyReference.cache
+C:\Users\e\Desktop\trabs pra estudar\EDII-Aula30082018-master\Acervo\obj\Debug\Acervo.csproj.CoreCompileInputs.cache
+C:\Users\e\Desktop\trabs pra estudar\EDII-Aula30082018-master\Acervo\obj\Debug\Acervo.exe
+C:\Users\e\Desktop\trabs pra estudar\EDII-Aula30082018-master\Acervo\obj\Debug\Acervo.pdb
